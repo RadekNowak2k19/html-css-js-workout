@@ -2,7 +2,7 @@ html {
 	font-family: "Inter", sans-serif;
 }
 
-.arena .box {
+.box {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -18,4 +18,7 @@ html {
 .arena {
 	border: 1px dotted olive;
 	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
